@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm glad you visit me, welcome! 👋
 
 # 💫 About Me:
 🔭 I'm an AI/ML software engineer<br>🌱 I’m currently working on some genAI projects and learning new technologies<br>💬 Ask me about nice hiking routes near London<br>⚡ Fun fact: I watch cat videos every day
