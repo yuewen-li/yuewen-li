@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm an AI/ML software engineer<br>🌱 I’m currently learning JavaScript with the help of genAI<br>💬 Ask me about nice hiking routes near London<br>⚡ Fun fact: I watch cat videos every day
+🔭 I'm an AI/ML software engineer<br>🌱 I’m currently working on some genAI projects and learning new technologies<br>💬 Ask me about nice hiking routes near London<br>⚡ Fun fact: I watch cat videos every day
 
 
 ## 🌐 Socials:
